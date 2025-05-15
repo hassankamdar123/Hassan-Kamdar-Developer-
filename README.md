@@ -1,6 +1,6 @@
 # Hassan-Kamdar-Developer-
 
-# 👋 Hi, I'm Rafay Khan
+# 👋 Hi, I'm Hassan Kamdar
 
 🎓 Currently a student at **SMIT**, learning **Web Development**  
 🐣 Taking baby steps into the world of coding  
@@ -16,7 +16,7 @@ Thanks for stopping by!
 
 <!-- Feel free to connect or check back as I grow in my journey -->
 
-# 👋 Hi, I'm Rafay Khan
+# 👋 Hi, I'm Hassan Kamdar
 
 🎓 Currently a student at **SMIT**, learning **Web Development**  
 🐣 Taking baby steps into the world of coding  
